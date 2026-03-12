@@ -1,0 +1,12 @@
+.DS_Store
+*.pptx
+*.zip
+project/
+.claude/
+dashboard_embedded_light_airy.html
+dashboard_embedded_refined.html
+System-A.html
+System-B.html
+IV Lab 1 information.docx
+IV Lab 2 information.docx
+GroupProj 2026 v1.pdf
